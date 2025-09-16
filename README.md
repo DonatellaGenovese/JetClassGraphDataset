@@ -19,3 +19,5 @@ Each particle has 17 input features across 3 categories:
 - Particle ID: Electric charge + 5-class particle type encoding (6 features)
 
 - Trajectory displacement: Impact parameters for charged particles (4 features)
+
+![Alt text](immagine.png)
