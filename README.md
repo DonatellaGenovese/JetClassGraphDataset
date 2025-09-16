@@ -20,4 +20,4 @@ Each particle has 17 input features across 3 categories:
 
 - Trajectory displacement: Impact parameters for charged particles (4 features)
 
-![Alt text](immagine.png)
+![Alt text](jetClassImage.png)
