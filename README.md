@@ -25,3 +25,4 @@ Each particle has 17 input features across 3 categories:
 
 # Citations
 Qu, Huilin and Li, Congqiao and Qian, Sitian, A Large-Scale Dataset for Deep Learning in Jet Physics, https://doi.org/10.5281/zenodo.6619768
+Semlani, Y., Relan, M. & Ramesh, K. PCN: a deep learning approach to jet tagging utilizing novel graph construction methods and Chebyshev graph convolutions. J. High Energ. Phys. 2024, 247 (2024). https://doi.org/10.1007/JHEP07(2024)247
