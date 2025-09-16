@@ -23,6 +23,9 @@ Each particle has 17 input features across 3 categories:
 ![Alt text](jetClassImage.png)
 
 
+Following the repository of [PCN: a deep learning approach to jet tagging utilizing novel graph construction methods and Chebyshev graph convolutions](https://github.com/YVSemlani/PCN-Jet-Tagging), we construct a graph dataset in Pytorch Geometric including fully connected scenario and a k-NN one. In particular for k-NN we use Scipy cKDTree for efficient nearest neighbor lookup.
+
+
 # Citations
 Qu, Huilin and Li, Congqiao and Qian, Sitian, A Large-Scale Dataset for Deep Learning in Jet Physics, https://doi.org/10.5281/zenodo.6619768
 Semlani, Y., Relan, M. & Ramesh, K. PCN: a deep learning approach to jet tagging utilizing novel graph construction methods and Chebyshev graph convolutions. J. High Energ. Phys. 2024, 247 (2024). https://doi.org/10.1007/JHEP07(2024)247
