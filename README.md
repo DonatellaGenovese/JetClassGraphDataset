@@ -24,14 +24,4 @@ Each particle has 17 input features across 3 categories:
 
 
 # Citations
-
-@dataset{JetClass,
-  author       = "Qu, Huilin and Li, Congqiao and Qian, Sitian",
-  title        = "{JetClass}: A Large-Scale Dataset for Deep Learning in Jet Physics",
-  month        = "jun",
-  year         = "2022",
-  publisher    = "Zenodo",
-  version      = "1.0.0",
-  doi          = "10.5281/zenodo.6619768",
-  url          = "https://doi.org/10.5281/zenodo.6619768"
-}
+Qu, Huilin and Li, Congqiao and Qian, Sitian, A Large-Scale Dataset for Deep Learning in Jet Physics, https://doi.org/10.5281/zenodo.6619768
