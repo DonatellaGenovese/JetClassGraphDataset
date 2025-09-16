@@ -1,5 +1,5 @@
 # JetClassGraphDataset
-The JetClass dataset is composed as follows:
+The JetClass dataset (introduced in ("Particle Transformer for jet tagging")[https://arxiv.org/abs/2202.03772]) is composed as follows:
 
 ### Dataset Size
 125M total jets: 100M for training, 5M for validation, 20M for testing
